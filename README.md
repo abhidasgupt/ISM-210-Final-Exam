@@ -4,7 +4,7 @@
 ### Description
 Series of exercises involving the analysis of financial data, including visualization and statistical modeling.
 
-### Packages
+### Used
 - Pandas
 - Matplotlib
 - Seaborn
